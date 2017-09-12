@@ -1,0 +1,15 @@
+/*
+img {
+    width: 50%;
+}*/
+
+
+div#frontImage{
+	display: inline-block;
+	
+}
+
+div#services {
+	display: inline-block;
+	float: right;
+}
